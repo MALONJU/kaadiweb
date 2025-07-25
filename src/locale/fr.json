@@ -1,0 +1,43 @@
+{
+    "nav_home": "Accueil",
+    "nav_features": "Fonctionnalités",
+    "nav_design": "Design",
+    "nav_benefits": "Avantages",
+    "nav_contact": "Contact",
+    "light_mode": "☀️ Clair",
+    "dark_mode": "🌙 Sombre",
+  
+    "hero_title": "Découvrez Shoplink",
+    "hero_description": "L’application qui révolutionne vos achats en grande surface.Shoplink simplifie chaque étape de vos courses en grande surface, du scan au paiement, pour une expérience fluide et sans attente.",
+    "button_discover": "Découvrir",
+  
+    "features_title": "Fonctionnalités Clés",
+    "features_google_title": "Connexion Google",
+    "features_google_desc": "Connexion simple et rapide avec votre compte Google.",
+    "features_cart_title": "Panier Intelligent",
+    "features_cart_desc": "Scannez ou ajoutez des articles à votre panier en temps réel.",
+    "features_payment_title": "Paiement Hybride",
+    "features_payment_desc": "Payez en ligne ou en magasin selon votre préférence.",
+  
+    "design_title": "Design & UX",
+    "design_description": "Une interface inspirée d’iOS 17+, fluide, minimaliste et optimisée pour une utilisation en magasin.",
+  
+    "benefits_title": "Pourquoi Shoplink ?",
+    "benefits_customer_title": "Amélioration du parcours client",
+    "benefits_customer_desc": "Shoplink facilite et fluidifie l’expérience d’achat de vos clients.",
+    "benefits_api_title": "Intégration API personnalisée",
+    "benefits_api_desc": "Proposez des modules (panier, paiement, scan) à intégrer à vos apps existantes.",
+  
+    "contact_title": "Contact",
+    "contact_description": "Envie d’en savoir plus ? Discutons de comment Shoplink peut révolutionner votre grande surface.",
+    "contact_button": "Nous contacter",
+  
+    "footer_rights": "Tous droits réservés.",
+  
+    "download_title": "Téléchargez l'application",
+    "download_description": "Scannez le QR code ou cliquez sur le bouton pour accéder à Shoplink.",
+    "download_qr_hint": "Scannez ce QR avec votre téléphone",
+    "download_button": "Accéder à Shoplink",
+    "download_note": "Disponible sur tous les navigateurs modernes."
+  }
+  

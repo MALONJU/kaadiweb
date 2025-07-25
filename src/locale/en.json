@@ -1,0 +1,42 @@
+{
+  "nav_home": "Home",
+  "nav_features": "Features",
+  "nav_design": "Design",
+  "nav_benefits": "Benefits",
+  "nav_contact": "Contact",
+  "light_mode": "☀️ Light",
+  "dark_mode": "🌙 Dark",
+
+  "hero_title": "Discover Shoplink",
+  "hero_description": "The app that revolutionizes grocery shopping.The app that’s revolutionizing your supermarket shopping with an intuitive, fast, and connected experience.",
+  "button_discover": "Discover",
+
+  "features_title": "Key Features",
+  "features_google_title": "Google Sign-In",
+  "features_google_desc": "Simple and fast login with your Google account.",
+  "features_cart_title": "Smart Cart",
+  "features_cart_desc": "Scan or add items to your cart in real time.",
+  "features_payment_title": "Hybrid Payment",
+  "features_payment_desc": "Pay online or in-store according to your preference.",
+
+  "design_title": "Design & UX",
+  "design_description": "An iOS 17+ inspired interface, sleek and optimized for in-store use.",
+
+  "benefits_title": "Why Shoplink?",
+  "benefits_customer_title": "Improved customer journey",
+  "benefits_customer_desc": "Shoplink simplifies and streamlines your customers' shopping experience.",
+  "benefits_api_title": "Custom API Integration",
+  "benefits_api_desc": "Offer modules (cart, payment, scan) to integrate into your existing apps.",
+
+  "contact_title": "Contact",
+  "contact_description": "Want to know more? Let's talk about how Shoplink can revolutionize your store.",
+  "contact_button": "Contact us",
+
+  "download_title": "Download the app",
+  "download_description": "Scan the QR code or click the button to access Shoplink.",
+  "download_qr_hint": "Scan this QR code with your phone",
+  "download_button": "Go to Shoplink",
+  "download_note": "Available on all modern browsers.",
+
+  "footer_rights": "All rights reserved."
+}
