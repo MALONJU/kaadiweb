@@ -296,7 +296,9 @@ body.dark-mode .testimonial-card {
   background: linear-gradient(135deg, #1e3c72, #2a5298);
   color: #fff;
 }
-
+body.dark-mode .text-muted {
+  color: #e0e0e0 !important;
+}
 .qr-wrapper {
   background: rgba(255, 255, 255, 0.1);
   padding: 20px;
