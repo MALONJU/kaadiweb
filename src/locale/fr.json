@@ -1,5 +1,8 @@
 {
     "nav_home": "Accueil",
+    "nav_story": "Notre Histoire",
+    "nav_packs": "Nos Packs",
+    "nav_science": "La Science",
     "nav_features": "Fonctionnalités",
     "nav_design": "Design",
     "nav_benefits": "Avantages",
@@ -7,9 +10,42 @@
     "light_mode": "☀️ Clair",
     "dark_mode": "🌙 Sombre",
   
-    "hero_title": "Découvrez Shoplink",
-    "hero_description": "L’application qui révolutionne vos achats en grande surface.Shoplink simplifie chaque étape de vos courses en grande surface, du scan au paiement, pour une expérience fluide et sans attente.",
+    "hero_title": "Accède à la simplicité des esprits organisés",
+    "hero_subtitle": "Découvrez Shoplink",
+    "hero_description": "L'application qui révolutionne vos achats en grande surface. Shoplink simplifie chaque étape de vos courses, du scan au paiement, pour une expérience fluide et sans attente.",
     "button_discover": "Découvrir",
+    "button_order": "Commander",
+
+    "story_title": "Notre Histoire",
+    "story_quote": "J'ai cherché la simplicité dans le chaos du quotidien. J'ai fini par la créer.",
+    "story_author": "Alexandre Dupont, Fondateur",
+    "story_description": "Shoplink est né d'un besoin simple : retrouver une expérience d'achat fluide, même dans le tumulte du quotidien. Notre mission : vous offrir clarté et efficacité à chaque passage en magasin.",
+
+    "packs_title": "Choisis ton format",
+    "packs_subtitle": "Et prépare-toi à acheter dans le bon état",
+    "pack_discovery_title": "Pack Découverte",
+    "pack_discovery_desc": "12 utilisations - 1 fonctionnalité",
+    "pack_discovery_price": "19,00 €",
+    "pack_pro_title": "Pack Pro",
+    "pack_pro_desc": "24 utilisations - 2 fonctionnalités",
+    "pack_pro_price": "34,00 €",
+    "pack_unlimited_title": "Pack Illimité",
+    "pack_unlimited_desc": "Utilisation illimitée - Toutes fonctionnalités",
+    "pack_unlimited_price": "59,00 €",
+
+    "science_title": "La science derrière Shoplink",
+    "science_subtitle": "100% API native + Interface iOS 17+",
+    "science_description": "Sans complexité ni temps d'attente. Juste une expérience fluide, même sous pression.",
+
+    "social_proof_title": "Testé par +10,000 utilisateurs",
+    "social_proof_subtitle": "Rejoignez la communauté Shoplink",
+
+    "newsletter_title": "Rejoins le cercle",
+    "newsletter_subtitle": "Accès anticipé. Avantages exclusifs",
+    "newsletter_placeholder": "Votre email",
+    "newsletter_button": "S'inscrire",
+    "newsletter_success": "Merci pour ton inscription ! Tu fais officiellement partie du mouvement Shoplink",
+    "newsletter_error": "Oops! Something went wrong while submitting the form.",
   
     "features_title": "Fonctionnalités Clés",
     "features_google_title": "Connexion Google",
@@ -20,16 +56,16 @@
     "features_payment_desc": "Payez en ligne ou en magasin selon votre préférence.",
   
     "design_title": "Design & UX",
-    "design_description": "Une interface inspirée d’iOS 17+, fluide, minimaliste et optimisée pour une utilisation en magasin.",
+    "design_description": "Une interface inspirée d'iOS 17+, fluide, minimaliste et optimisée pour une utilisation en magasin.",
   
     "benefits_title": "Pourquoi Shoplink ?",
     "benefits_customer_title": "Amélioration du parcours client",
-    "benefits_customer_desc": "Shoplink facilite et fluidifie l’expérience d’achat de vos clients.",
+    "benefits_customer_desc": "Shoplink facilite et fluidifie l'expérience d'achat de vos clients.",
     "benefits_api_title": "Intégration API personnalisée",
     "benefits_api_desc": "Proposez des modules (panier, paiement, scan) à intégrer à vos apps existantes.",
   
     "contact_title": "Contact",
-    "contact_description": "Envie d’en savoir plus ? Discutons de comment Shoplink peut révolutionner votre grande surface.",
+    "contact_description": "Envie d'en savoir plus ? Discutons de comment Shoplink peut révolutionner votre grande surface.",
     "contact_button": "Nous contacter",
   
     "footer_rights": "Tous droits réservés.",

@@ -1,5 +1,8 @@
 {
   "nav_home": "Home",
+  "nav_story": "Our Story",
+  "nav_packs": "Our Packs",
+  "nav_science": "The Science",
   "nav_features": "Features",
   "nav_design": "Design",
   "nav_benefits": "Benefits",
@@ -7,9 +10,42 @@
   "light_mode": "☀️ Light",
   "dark_mode": "🌙 Dark",
 
-  "hero_title": "Discover Shoplink",
-  "hero_description": "The app that revolutionizes grocery shopping.The app that’s revolutionizing your supermarket shopping with an intuitive, fast, and connected experience.",
+  "hero_title": "Access the simplicity of organized minds",
+  "hero_subtitle": "Discover Shoplink",
+  "hero_description": "The app that revolutionizes grocery shopping. The app that's revolutionizing your supermarket shopping with an intuitive, fast, and connected experience.",
   "button_discover": "Discover",
+  "button_order": "Order",
+
+  "story_title": "Our Story",
+  "story_quote": "I sought simplicity in the chaos of everyday life. I ended up creating it.",
+  "story_author": "Alexandre Dupont, Founder",
+  "story_description": "Shoplink was born from a simple need: to find a smooth shopping experience, even in the hustle and bustle of everyday life. Our mission: to offer you clarity and efficiency with every store visit.",
+
+  "packs_title": "Choose your format",
+  "packs_subtitle": "And get ready to shop in the right state",
+  "pack_discovery_title": "Discovery Pack",
+  "pack_discovery_desc": "12 uses - 1 feature",
+  "pack_discovery_price": "19.00 €",
+  "pack_pro_title": "Pro Pack",
+  "pack_pro_desc": "24 uses - 2 features",
+  "pack_pro_price": "34.00 €",
+  "pack_unlimited_title": "Unlimited Pack",
+  "pack_unlimited_desc": "Unlimited use - All features",
+  "pack_unlimited_price": "59.00 €",
+
+  "science_title": "The science behind Shoplink",
+  "science_subtitle": "100% Native API + iOS 17+ Interface",
+  "science_description": "Without complexity or waiting time. Just a smooth experience, even under pressure.",
+
+  "social_proof_title": "Tested by +10,000 users",
+  "social_proof_subtitle": "Join the Shoplink community",
+
+  "newsletter_title": "Join the circle",
+  "newsletter_subtitle": "Early access. Exclusive benefits",
+  "newsletter_placeholder": "Your email",
+  "newsletter_button": "Subscribe",
+  "newsletter_success": "Thank you for your registration! You are officially part of the Shoplink movement",
+  "newsletter_error": "Oops! Something went wrong while submitting the form.",
 
   "features_title": "Key Features",
   "features_google_title": "Google Sign-In",
